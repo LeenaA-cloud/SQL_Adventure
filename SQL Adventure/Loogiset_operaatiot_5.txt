@@ -1,0 +1,9 @@
+a) WHERE name = NOT 'K2'
+b) WHERE height = NOT 4811
+c) WHERE name <> 'Rakaposhi' OR NOT height = 4811
+d) WHERE name = 'Rakaposhi' OR NOT height = 4811
+e) WHERE name = K2' AND height = 8611
+f) WHERE name = 'Rakaposhi' AND height = 8611
+g) WHERE height = 8611 AND (id > 10 OR continent = 'Eurooppa') 
+h) WHERE height = 8611 AND id > 10 OR continent = 'Eurooppa'
+
